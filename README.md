@@ -94,7 +94,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="[YOUR_LINK](https://www.linkedin.com/in/abuzar-khan-b66031271/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="YOUR_LINK"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
