@@ -52,7 +52,7 @@
 
 ### 🚀 Project 2 – Frontend UI
 
-* 🎨 Modern UI with animations (GSAP)
+* 🎨 Modern UI with animations (GSAP)/Framremotion
 * 📱 Fully responsive
 * 🌐 Live Demo: YOUR_LINK
 
