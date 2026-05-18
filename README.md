@@ -74,7 +74,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Abuzarkhan2486&theme=tokyonight" />
 </p>
 
 ---
@@ -84,7 +84,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abuzarjhan2486&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
